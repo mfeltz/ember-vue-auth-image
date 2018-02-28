@@ -1,0 +1,1 @@
+# ember-vue-auth-image
