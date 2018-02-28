@@ -1,9 +1,12 @@
 {
   "name": "ember-vue-auth-image",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember addon to use vue-auth-image addon",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "vue",
+    "image-auth",
+    "auth"
   ],
   "license": "MIT",
   "author": "",
@@ -19,7 +22,8 @@
     "test": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.6.0"
+    "ember-cli-babel": "^6.6.0",
+    "vue-auth-image": "0.0.2"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
